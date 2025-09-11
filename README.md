@@ -191,7 +191,7 @@ const ederPG = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EderPG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eder-uriel-palomino-garcia-325731291)
-[![Portafolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/EderPG/Portafolio_web](https://ederpg.github.io/Portafolio_web/))
+[![Portafolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://ederpg.github.io/Portafolio_web/))
 
 </div>
 
