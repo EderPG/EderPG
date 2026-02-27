@@ -148,7 +148,7 @@ Aplicación Pokédex desarrollada con NestJS, integrando APIs externas y demostr
 
 ## 🎨 Proyectos Adicionales
 
-### 💼 [Portafolio Web](https://github.com/EderPG/Portafolio_web)
+### 💼 [Portafolio Web](https://ederpg.github.io/Portafolio_web/)
 Sitio web personal que muestra mis proyectos y habilidades, desarrollado con HTML, CSS y JavaScript vanilla.
 
 ---
